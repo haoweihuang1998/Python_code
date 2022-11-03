@@ -1,0 +1,6 @@
+mRNA_filename	CDS#base1	source
+Homo_sapiens_ADRA2A.fasta	966..2363	https://www.ncbi.nlm.nih.gov/nuccore/NM_000681.3
+Homo_sapiens_PRKN.fasta	135..1085	https://www.ncbi.nlm.nih.gov/nuccore/NM_013988.2
+Homo_sapiens_HTR1B.fasta	620..1792	https://www.ncbi.nlm.nih.gov/nuccore/NM_000863.2
+Homo_sapiens_BRCA2.fasta	229..10485	https://www.ncbi.nlm.nih.gov/nuccore/U43746.1
+musculus_P53.fasta	101..1273	https://www.ncbi.nlm.nih.gov/nuccore/AB021961.1

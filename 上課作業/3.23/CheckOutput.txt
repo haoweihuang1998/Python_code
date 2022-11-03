@@ -1,0 +1,6 @@
+This in put is	GrayOutput.txt
+length:	True
+"CG" count:	False
+startwith("TCAAC"):	True
+string_DNA[4:9]:	False
+hw2 answer:	False

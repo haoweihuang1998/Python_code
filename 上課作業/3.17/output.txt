@@ -1,0 +1,7 @@
+Your student ID:0517064
+length:24
+"CG "count:4
+"TCG" site:10
+startswith("TCAAC"):False
+string_DNA[4:9]:TCAAG
+hw2 answer:TCAATCAAGATCGcggccggcTCG

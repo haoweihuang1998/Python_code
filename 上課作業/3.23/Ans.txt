@@ -1,0 +1,6 @@
+Your student ID:	Answer
+length:	24
+"CG" count:	4
+startwith("TCAAC"):	False
+string_DNA[4:9]:	TCAAG
+hw2 answer:	TCAATCAAGATCGcggccggcTCG

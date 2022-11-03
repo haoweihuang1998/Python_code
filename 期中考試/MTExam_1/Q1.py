@@ -1,0 +1,6 @@
+dna=open("dna.txt")
+dna1=dna.read()
+length=len(dna1)
+c=dna1.count("C")
+g=dna1.count("G")
+print("The GC content is "+str((int(c)+int(g))/int(length)))

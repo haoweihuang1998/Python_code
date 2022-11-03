@@ -1,0 +1,6 @@
+Your student ID:	GrayOutput
+length:	24
+"CG" count:	5
+startwith("TCAAC"):	False
+string_DNA[4:9]:	TCAAGATCG
+hw2 answer:	TCAATCAAGATCGcggccggctCG
